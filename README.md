@@ -1,0 +1,2 @@
+# AutoChat
+MinecraftServerPlugin_AutoChat
